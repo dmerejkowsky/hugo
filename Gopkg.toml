@@ -10,7 +10,8 @@
 
 [[constraint]]
   name = "github.com/alecthomas/chroma"
-  revision = "v0.2.0"
+  branch = "ensure-newline-in-diff-lexer"
+  source = "https://github.com/dmerejkowsky/chroma.git"
 
 [[constraint]]
   branch = "master"
