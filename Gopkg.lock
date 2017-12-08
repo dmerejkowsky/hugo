@@ -20,11 +20,10 @@
   revision = "de5bf2ad457846296e2031421a34e2568e304e35"
 
 [[projects]]
-  branch = "ensure-newline-in-diff-lexer"
+  branch = "master"
   name = "github.com/alecthomas/chroma"
   packages = [".","formatters","formatters/html","lexers","styles"]
-  revision = "a0a28bd10633d9c4474e73d3444240a40da1d292"
-  source = "https://github.com/dmerejkowsky/chroma.git"
+  revision = "c6b01cb2a6799ec5c955ca684fd1bdc49cb67ce3"
 
 [[projects]]
   branch = "master"
@@ -286,6 +285,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "02f9aa9437751008e2c784e649e65b5432dcd0f4b24ca559784ca182b0357811"
+  inputs-digest = "b7c30d3b163877a01549fcaec71945d9a6dc74b198d05d438a599d793f9e31d3"
   solver-name = "gps-cdcl"
   solver-version = 1
